@@ -1,19 +1,16 @@
 *{
     text-align: center;
-}
-
-.center{
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-body{
     background-image: url('pics/25.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
 }
-table{
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     border: "1";
 }
+
