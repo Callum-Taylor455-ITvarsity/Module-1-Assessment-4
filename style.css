@@ -1,9 +1,12 @@
 *{
     text-align: center;
-    color: #ffffff;
+    
 
 }
 
+h1{
+    color: #ffffff;
+}
 
 .center{
     margin-left: auto;
