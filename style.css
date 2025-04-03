@@ -16,7 +16,10 @@ body{
      background-repeat: no-repeat;
      background-size: cover;
 }
+
+
 th{
     font-weight: 800 ;
     background-color: #ffffff;
+    color: #000;
 }
