@@ -2,7 +2,8 @@
     text-align: center;
 }
 
-table.center{
-     margin-left: auto;
-     margin-right: auto;
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
