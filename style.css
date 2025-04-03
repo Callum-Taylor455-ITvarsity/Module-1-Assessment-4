@@ -8,5 +8,8 @@
     text-align: center;
 }
 body{
-    background-image: url('pics/25.jpg');
+    background-image: url('25.jpg');
+}
+table{
+    border: '1';
 }
