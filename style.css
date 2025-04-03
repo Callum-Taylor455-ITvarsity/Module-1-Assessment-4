@@ -1,16 +1,18 @@
 *{
     text-align: center;
-    background-image: url('./25.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
+
 }
 
 .center{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border: "1";
+    
 }
 
+body{
+     background-image: url('./25.jpg');
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
