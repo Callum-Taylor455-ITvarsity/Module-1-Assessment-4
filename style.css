@@ -44,3 +44,7 @@ p2{
 a{
     color: #ffffff;
 }
+table, th, td{
+    border: 2px solid;
+    border-color: rgb(63, 119, 7);
+}
