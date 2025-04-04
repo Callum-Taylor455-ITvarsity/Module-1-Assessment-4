@@ -31,3 +31,6 @@ th{
 td{
     color: #ffffff;
 }
+tr:hover{
+        color: blueviolet;
+}
